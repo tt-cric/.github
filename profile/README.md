@@ -3,4 +3,3 @@ A collective of students at Kathmandu University building and organizing things 
 # More..
 
 Checkout our [webpage](https://tt-cric.github.io/)
-
